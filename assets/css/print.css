@@ -1,0 +1,13 @@
+@media print {
+    .side-bar, .no-print, header{display:none;}
+ .print-div{display:block;}
+ .content {border:0px}
+div.welcome-letter{padding-top: 115px;padding-bottom: 0px;position:relative;}
+div.welcome-letter .wl-bg-img{position:absolute;top:-45px;right:0px;z-index:1;width:724px;height:975px}
+}
+
+ .side-bar, .no-print, header{display:none;}
+ .print-div{display:block;}
+ .content {border:0px}
+div.welcome-letter{padding-top: 115px;position:relative;padding-bottom:0px;}
+div.welcome-letter .wl-bg-img{position:absolute;top:-45px;right:0px;z-index:1;width:724px;height:975px}

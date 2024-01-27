@@ -1,0 +1,137 @@
+*{margin:0}ul{list-style:none;margin:0;padding:0}
+header{ margin-top: -30px;}
+a:hover,a:focus,a:active, select:focus,select:active, option:focus,option:active{text-decoration:none;outline:none}
+body{background:#04161a}
+img{max-width:100%}
+.h-0-9{background:#fff;padding:4px  0;border-bottom:3px solid #0098da}
+.h-0-9 ul {
+	margin: 19px 0 0;
+}
+#example_length {
+	float: left;
+	
+}
+.flxxx label {
+	width: 66px;
+}
+.flxxx .form-group {
+	display: flex;
+}
+.bz h6 {
+	position: absolute;
+right: 0;
+top: -10px;
+background: #4ab833;
+color: #fff;
+padding: 4px 4px 7px 8px;
+border-bottom-left-radius: 10px;
+font-weight: 600;
+}
+.bz h2, .bz h4 {
+	color: #000 !important;
+}
+input[type="date"].form-control, input[type="time"].form-control, input[type="datetime-local"].form-control, input[type="month"].form-control {
+	line-height: 20px;
+}
+#example_wrapper {
+	margin: 20px 0 0;
+}
+.side-bar li a span {
+	background: white;
+	color: #3BC2FB;
+	border-radius: 50%;
+	padding: 0px 8px 1px 8px;
+	font-size: 17px;
+	font-weight: 600;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+	color: #fff;
+	background-color: #3BC2FB;
+	font-size: 15px;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #232323;
+	font-size: 15px;
+}
+.navbar-nav {
+	float: right;
+	/* margin: 0; */
+}
+.navbar {
+	background: #fff;
+	margin: 0;
+	border-radius: 0;
+	border: none;
+}
+.panel-body{padding:0}
+.side-bar{background:#04161a;text-align:left;padding:0}
+.side-bar h3{background:#030d0f;color:#fff;font-weight:800; font-size:15px;margin:0;padding:  15px;text-transform:uppercase}
+.side-bar ul li a{padding:15px;display:block; font-size:15px;color:#fff}
+.side-bar .dropdown-menu{position:inherit;width:100%;background:#0a2933;border-radius:0}
+.side-bar .dropdown b{text-align:right;float:right}
+.main-body{background:#e7e7e7;padding:15px; min-height:580px;}
+.main-body span{font-size:20px}.nav-page{padding:0 15px 0 0}.nav-page li a{color:#4e4e4f; font-size:14px;margin:5px 0 0;display:inline-block}.heading-area2{background:#fff;margin:10px 0 10px;padding:	10px 15px}.heading-area2 span{font-size:14px;margin:8px 0 0 0}.form-area2{background:#fff;clear:both}.business-details{padding:15px;background:#fff}.business-details .form-control{border-radius:0}.heading-area{margin:0 0}.form-nav li a{color:#777;font-size:15px}.form-control1{width:100%; border:0;border-bottom:1px solid #ccc;border-top:2px solid #d2d6df;padding:10px; font-size:16px; /**-webkit-appearance: none;appearance: none;**/	}input[type="radio"] { clear:both;}
+.form-nav .navbar-nav li.active{border-top:2px solid #2c89bb;border-bottom:1px solid #fff; border-right:1px solid #ccc;  position: relative;
+    top: 1px;}.form-nav #navbarCollapse{border-bottom:1px solid #ccc;margin:0; width:100%;padding:0}.form-group-0{border-top: 10px solid #eceff3;
+    margin: 0 15px 0 -15px;
+    padding: 14px 15px;
+    width: 103%;}
+	.header{ margin-top:-30px;}
+.navbar-default .navbar-nav > li > a:hover {
+	color: #fff;
+	background-color: #3BC2FB;
+}
+.navbar-nav > li {
+	float: left;
+	padding-left: 5px;
+}
+.logs {
+	max-width: 50%;
+}
+.navbar-default .navbar-nav > .active > a:hover {
+    color: #fff;
+    background-color: #3BC2FB;
+}
+.side-bar ul{ border-bottom: 1px solid #fff; }
+.side-bar ul li:hover{ color: #fff; background-color: #3BC2FB; border:1px solid #fff;}
+.side-bar ul li{ border-top:1px solid #fff;}
+.page-heading {
+	background: #3BC2FB;
+	padding: 8px 15px;
+	border-radius: 6px;
+	margin-bottom: 15px;
+	/* font-weight: 600; */
+}
+
+.page-heading h2 {
+	padding: 0px;
+	margin: 0px;
+	color: #fff;
+	font-size: 24px;
+	font-weight: 600;
+}
+.table th {
+	background: #4A4949;
+	color: #fff;
+}
+.table tr{ background:#fff; color:#000;}
+@media (min-width: 320px) and (max-width: 576px) {
+	.navbar {
+	background: #fff;
+	margin: 0;
+	border-radius: 0;
+	border: none;
+	min-height: 0;
+}
+	.navbar-default .navbar-toggle {
+	border-color: #ddd;
+	margin-top: -49px;
+}
+.navbar-nav > li {
+	float: left;
+	padding-left: 5px;
+	width: 100%;
+}
+	header{ 
+	margin-top: 0;}
+}
